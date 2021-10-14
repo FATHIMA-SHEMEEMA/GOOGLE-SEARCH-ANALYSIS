@@ -1,0 +1,2 @@
+# GOOGLE-SEARCH-ANALYSIS
+Approximately 3.5 billion searches are performed on Google daily, which means that approximately  40,000 searches are performed every second on Google.  So Google search is a great use case for analyzing data based on search queries. Here I will be analyzing the Google search trends on the queries based on “Machine Learning”,  so let’s create a DataFrame of the top 10 countries which search for “Machine Learning” on Google.
